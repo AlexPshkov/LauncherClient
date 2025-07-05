@@ -22,7 +22,7 @@
 
                         <controls:LogoComponent Grid.Row="0"
                                                 Classes="Icon"
-                                                Size="32" />
+                                                Size="48" />
 
                         <StackPanel Grid.Row="2"
                                     Spacing="10"

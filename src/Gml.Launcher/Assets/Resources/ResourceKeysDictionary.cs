@@ -31,6 +31,6 @@ public static class ResourceKeysDictionary
     public const string JavaNotFound = "JavaNotFound";
     public const string IsDiskFull = "IsDiskFull";
 
-    public const string Host = "https://toxic.alexpshkov.ru";
+    public const string Host = "https://api.toxic.alexpshkov.ru";
     public const string FolderName = "ToxicWorldLauncher";
 }

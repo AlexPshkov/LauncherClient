@@ -10,7 +10,7 @@
 
     <Style Selector="controls|ServerInfo">
 
-        <Setter Property="Spacing" Value="20" />
+        <Setter Property="Spacing" Value="5" />
         <Setter Property="FontSize" Value="60" />
         <Setter Property="MaxWidth" Value="500" />
         <Setter Property="Foreground" Value="{DynamicResource HeadlineColor}" />

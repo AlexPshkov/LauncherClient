@@ -6,7 +6,7 @@ namespace Gml.Launcher.Views.Components;
 public class LogoComponent : TemplatedControl
 {
     public static readonly StyledProperty<double> SizeProperty = AvaloniaProperty.Register<LogoComponent, double>(
-        nameof(Size), 32);
+        nameof(Size), 48);
 
     public double Size
     {
